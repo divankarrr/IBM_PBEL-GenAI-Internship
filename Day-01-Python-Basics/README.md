@@ -1,7 +1,7 @@
 # Day 01 – Python Fundamentals
 
 ## 📅 Date
-06 July 2026
+18 June 2026
 
 ## 🎯 Objective
 
