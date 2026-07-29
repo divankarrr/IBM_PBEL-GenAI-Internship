@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/DivankarSingh/PBEL-3.0-GenAI-Internship?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DivankarSingh/PBEL-3.0-GenAI-Internship?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/DivankarSingh/PBEL-3.0-GenAI-Internship?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/DivankarSingh/PBEL-3.0-GenAI-Internship?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/divankarrr/PBEL-3.0-GenAI-Internship?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/divankarrr/PBEL-3.0-GenAI-Internship?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/divankarrr/PBEL-3.0-GenAI-Internship?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/divankarrr/PBEL-3.0-GenAI-Internship?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch)
